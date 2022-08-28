@@ -28,7 +28,7 @@ export default function Home() {
             </div>
 
             <div className='animation'>
-              <img src="https://images.ctfassets.net/k0lk9kiuza3o/2GBW40b0geTwkz6IvDu2FZ/f2f74f52a70628ae404d03a023bfde06/HomePage_GIF1_BG_2.svg" alt="" />
+              <img src="https://storage.googleapis.com/leadpages-home.appspot.com/leadpages_blog/2018/09/Calendly@2x-1024x670.png" alt="" />
             </div>
             </div> 
 
@@ -175,7 +175,7 @@ export default function Home() {
                 </div>
 
                 <div className='Slack-animation'>
-                  <img src="https://images.ctfassets.net/k0lk9kiuza3o/65X2ZprbO1Gep9VfwLd7i6/9dcc49c1c63eb649112c7ca9ac5e2ca9/Homepage04_BG.svg" alt="" />
+                  <img style={{height:"350px", width:"400px",paddingLetf: "100px"}} src="https://storage.googleapis.com/leadpages-home.appspot.com/leadpages_blog/2018/09/01-Calendly-to-schedule-your-demo-with-Leadpages-site-and-landing-pages@1x.jpg" alt="" />
                   </div> 
              </div>
 
